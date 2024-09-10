@@ -1,0 +1,3 @@
+cmd-return : kitty -d ~ --title "kitty"
+cmd+shift-e : open ~
+cmd-i : open -a "System Preferences"

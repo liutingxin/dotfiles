@@ -1,0 +1,15 @@
+# python module
+*__pycache__*
+
+
+# vscode projcet
+.vscode/
+
+# Sublime Text editor project files
+*.sublime-project
+*.sublime-workspace
+
+
+*.cache/
+
+luarc.json
